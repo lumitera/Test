@@ -1,2 +1,4 @@
 # Test
-Test
+/start
+login
+nmp
